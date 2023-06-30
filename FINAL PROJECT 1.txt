@@ -1,8 +1,0 @@
-GROUP 6
-
-Kelas		: KS-015
-Anggota Kelompok: Annisa Nur Hidayah (PYTN-KS15-002)
-		  Lisa Wahyu Ningsih (PYTN-KS15-007)
-		  Nadilla Nur 'Aini Yulian Putri (PYTN-KS15-012)
-
-Final Project 1: https://github.com/annisahida/FinalProject1
